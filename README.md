@@ -25,5 +25,6 @@ Bu şekilde, RSA algoritması ile metinleri şifreleyebilir ve çözebilirsiniz.
 
 Daha fazla bilgi için [RSA (kriptografi)](https://tr.wikipedia.org/wiki/RSA_(kriptografi)) sayfasını ziyaret edebilirsiniz.
 
+## Algoritma Şeması
 
 ![image](https://github.com/ugurcomptech/RSA/assets/133202238/d2eb7904-ce10-4853-8bed-b703eaaabcf1)
